@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9548effe29b256d45a7c8344ca45a645
+timeCreated: 1461779922
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - basketPrefab: {fileID: 192158, guid: de728fd4f99f94c76a8a65699f3ca6fe, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
